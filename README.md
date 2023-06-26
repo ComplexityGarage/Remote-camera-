@@ -1,4 +1,4 @@
-# ExemplaryProject  (Title of the project)
+# Remote camera  (Title of the project)
 # Authors 
 - Author 1
 - Author 2
