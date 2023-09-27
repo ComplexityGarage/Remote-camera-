@@ -1,7 +1,6 @@
 # Remote camera  (Title of the project)
 # Authors 
-- Author 1
-- Author 2
+- Wiktor Zantowicz
 # Description of the project 
 Text here... 
 # Science and tech used 
