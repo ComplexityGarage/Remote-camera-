@@ -21,6 +21,13 @@ The recommended Raspberry Pi for OctoPrint is the 3rd version, but for this proj
 
 To use the system, all that's needed is the login and password available in the Complexity Garage.
 # What next?
-Text here... 
+
+One possible project expansion is to connect the Raspberry Pi to the 3D printer. This would enable remote control of the printing process, such as starting, stopping, and uploading files online. It would require a more powerful version of the Raspberry Pi.
+
+Regarding the system, there are two options:
+- Purchase a premium account on octoeverywhere.com.
+- Have the ability to influence the print only from the Complexity Garage network.
 # Sources 
-- [Writing on GitHub] ( https://docs.github.com/en/get-started/writing-on-github ) 
+- [Writing on GitHub] ( https://docs.github.com/en/get-started/writing-on-github )
+- [OctoPrint tutorial] (https://help.prusa3d.com/pl/article/octoprint-konfiguracja-i-instalacja_2182?gad=1&gclid=CjwKCAjwyNSoBhA9EiwA5aYlb_6o3jeAFQktKI3kfejXJd_tv1Poi1pCg0KKQdAtwdNwpkhr9EIfXRoC7RkQAvD_BwE)
+- [OctoEverywhere.com] (https://plugins.octoprint.org/plugins/octoeverywhere/)
