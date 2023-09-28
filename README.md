@@ -15,8 +15,11 @@ Parts and software used in this project:
 
 
 # State of the art 
+I used OctoPrint as the camera management system. It allows for remote access in LAN, but in an academic network, such connections are typically blocked by default. Because of this, I decided to utilize octoeverywhere.com as the server. As a result, anyone with access to the account can monitor the 3D print from anywhere. A free account allows for 30 seconds of viewing, after which the page needs to be refreshed.
 
+The recommended Raspberry Pi for OctoPrint is the 3rd version, but for this project, a Raspberry Pi Zero is sufficient because we are not utilizing the full capabilities of OctoPrint.
 
+To use the system, all that's needed is the login and password available in the Complexity Garage.
 # What next?
 Text here... 
 # Sources 
