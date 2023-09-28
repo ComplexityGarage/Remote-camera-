@@ -20,6 +20,11 @@ I used OctoPrint as the camera management system. It allows for remote access in
 The recommended Raspberry Pi for OctoPrint is the 3rd version, but for this project, a Raspberry Pi Zero is sufficient because we are not utilizing the full capabilities of OctoPrint.
 
 To use the system, all that's needed is the login and password available in the Complexity Garage.
+
+![](pi_camera_3.jpg)
+![](pi_camera_2.jpg)
+![](pi_camera_1.jpg)
+
 # What next?
 
 One possible project expansion is to connect the Raspberry Pi to the 3D printer. This would enable remote control of the printing process, such as starting, stopping, and uploading files online. It would require a more powerful version of the Raspberry Pi.
